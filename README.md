@@ -1,7 +1,7 @@
 <div align="center">
 
 <br><br>
-<h1 align="center" style="font-size: 65px; color: #b897ff; border-bottom: none;">Seongjun Kim</h1>
+<h1 align="center" style="font-size: 65px; color: #b897ff; border-bottom: none;">김성준</h1>
 <p align="center" style="font-size: 20px; color: #8b949e; margin-top: -10px;">Backend Developer | 몰입하며 해답을 찾아가는 개발자</p>
 <br>
 
