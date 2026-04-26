@@ -66,7 +66,7 @@
 
 <br>
 
-## <img width="24" height="24" alt="mail" src="https://github.com/user-attachments/assets/533427df-1d91-4d57-8a97-2d63d5fd15e5" /> Email
+## 📧 Email
 <p align="center" style="font-size: 18px; color: #b897ff; font-weight: bold; margin-top: -10px;">
   tjdwns8083@gmail.com
 </p>
