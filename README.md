@@ -44,7 +44,7 @@
 ## 🚀 Featured Projects
 <div style="font-weight: 700; font-size: 15px; line-height: 1.6; color: #c9d1d9;">
     <b>📍 대롱 (Daelong)</b> | <i>약속 관리 서비스</i> <br>
-    중간 지점 계산 로직 구현 및 카카오/구글 통합 인증 시스템 구현 
+    중간 지점 계산 로직 구현 및 카카오/구글 통합 인증 시스템 구현 <br><br>
     <b>🤖 VIA (Vision & IT Advisor)</b> | <i>진로 탐색 챗봇</i> <br>
     OpenAI API를 활용한 개인화된 진로 상담 및 프롬프트 엔지니어링 설계 <br><br>
     <b>💻 스펙메이트 (SpecMate)</b> | <i>AI PC 견적 에이전트</i> <br>
